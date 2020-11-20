@@ -1,0 +1,25 @@
+{
+  "name": "api_express",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lauragv08/api_express.git"
+  },
+  "author": "Laura Giraldo Villegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lauragv08/api_express.git"
+  },
+  "homepage": "https://github.com/Lauragv08/api_express.git",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
